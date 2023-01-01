@@ -12,7 +12,7 @@ S1 energy란 전자가 singlet excited state에 있을 때의 energy이며, T1 e
 
 데이터의 출처는 다음과 같습니다.
 
-https://dacon.io/competitions/official/235789/overview/description
+[Samsung AI Challenge for Scientific Discovery](https://dacon.io/competitions/official/235789/overview/description)
 
 ## 3. BluePrint
 
